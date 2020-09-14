@@ -1,9 +1,9 @@
 # qrcode-login
 
 how to check and delete data in mongodb dataset:
-> mongo
-> show dbs
-> use <NAME-OF-DB>
-> show collections
-> db.<NAME-OF-collection>.find()
-> db.<NAME-OF-collection>.remove(_id:"xxxx")
+> mongo <br>
+> show dbs <br>
+> use <NAME-OF-DB> <br>
+> show collections <br>
+> db.<NAME-OF-collection>.find() <br>
+> db.<NAME-OF-collection>.remove(_id:"xxxx") <br>
